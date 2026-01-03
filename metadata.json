@@ -1,0 +1,7 @@
+{
+  "name": "LoanPath AI",
+  "description": "An intelligent loan predictor and financial assistant that calculates EMIs, finds the best bank offers using AI, and locates nearby showrooms for car loans.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
